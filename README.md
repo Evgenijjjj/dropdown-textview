@@ -36,3 +36,6 @@ Attribute | Description
 :-------------:|:-------------:
 ddtv_animate | Use false if you don't want animate view height changes
 ddtv_animationDuration | Duration of the animation
+
+# Sample
+![](1.gif)
