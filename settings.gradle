@@ -1,0 +1,3 @@
+rootProject.name = "DropDownTextView"
+include ':app'
+include ':dropdown-textview'
